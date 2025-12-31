@@ -1,3 +1,7 @@
+#Credits
+
+all credits go to
+
 # Flipper Zero Evil Portal
 
 An evil captive portal Wi-Fi access point using the Flipper Zero and Wi-Fi dev board

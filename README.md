@@ -1,6 +1,6 @@
-#Credits
+# Credits
 
-all credits go to
+all credits go to bigbrodude6119 and all affiliates
 
 # Flipper Zero Evil Portal
 
